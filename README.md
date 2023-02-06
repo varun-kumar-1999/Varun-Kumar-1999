@@ -1,5 +1,5 @@
 # Varun_Kumar
-+ I am Varun Kumar
++ :wave: I am Varun Kumar
 + Student @ BIT
-* Studying ISE
++ Studying ISE
 * Intrested in CyberSecurity & AI
