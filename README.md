@@ -1,2 +1,5 @@
 # Varun_Kumar
-#BE Info.Science Student
+I am Varun Kumar
+Student @ BIT
+Studying ISE
+Intrested in CyberSecurity & AI
